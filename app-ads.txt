@@ -1,1 +1,2 @@
-google.com, pub-2438206749493295, DIRECT, f08c47fec0942fa0
+# Curioz App - Official AdMob ads.txt
+google.com,pub-2438206749493295,DIRECT,f08c47fec0942fa0
